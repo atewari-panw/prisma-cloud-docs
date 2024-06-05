@@ -24,6 +24,11 @@ The list of fixed issues are not cumulative; only the issues that are fixed with
 //On *Inventory > Assets*, if you filter based on the _Key-Value_ *Asset Tag* and your environment has more that 1 million assets, the results will be inconclusive.
 //Contact your Prisma Cloud Customer Success representative for more details.
 
+|RLP-143404
+//Added in 24.6.2
+
+|You may notice a few alerts for *Attack Path* policies are in open state when they should be marked as resolved. This was due to an issue that is now fixed, however, we are still working on bringing the impacted alerts to the right state. 
+
 |*RLP-128421*
 //Added in 24.4.1
 
